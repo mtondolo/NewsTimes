@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">New Times</string>
+    <!-- Text to display in the list when there are no news [CHAR LIMIT=NONE] -->
+    <string name="no_news">No news updates available, please check back later or try again.</string>
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No network connection, please check back later or try again.
+    </string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <!-- Strings For Sort-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Sort By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_world_news_value</string>
+
+    <!-- Label for order-by world news option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_world_news_label">World news</string>
+    <string name="settings_order_by_world_news_value" translatable="false">world</string>
+
+    <!-- Label for order-by politics option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_politics_label">Politics</string>
+    <string name="settings_order_by_politics_value" translatable="false">politics</string>
+
+    <!-- Label for order-by business option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_business_label">Business</string>
+    <string name="settings_order_by_business_value" translatable="false">business</string>
+
+    <!-- Label for order-by technology option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_technology_label">Technology</string>
+    <string name="settings_order_by_technology_value" translatable="false">technology</string>
+
+    <!-- Label for order-by environment option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_environment_label">Environment</string>
+    <string name="settings_order_by_environment_value" translatable="false">environment</string>
+
+    <!-- Label for order-by sport option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_sport_label">Sport</string>
+    <string name="settings_order_by_sport_value" translatable="false">sport</string>
+
+    <!-- Label for order-by date option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_music_label">Music</string>
+    <string name="settings_order_by_music_value" translatable="false">music</string>
+
+    <!-- Label for order-by culture option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_culture_label">Culture</string>
+    <string name="settings_order_by_culture_value" translatable="false">culture</string>
+
+    <!-- Label for order-by date society option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_society_label">Society</string>
+    <string name="settings_order_by_society_value" translatable="false">society</string>
+
+</resources>
